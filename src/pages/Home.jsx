@@ -5,7 +5,7 @@ import DeputySection from '../components/Home/Deputy'
 import TrustedBrandsSection from '../components/Home/TrustedBrands'
 import TimesheetCompliance from '../components/Home/TimeSheet'
 import ReviewSection from '../components/Home/ReviewSection'
-import Ratings from '../components/Home/ratings'
+import Ratings from '../components/Home/Ratings'
 import LearnMoreSection from '../components/Home/LearnMore'
 
 function Home() {
