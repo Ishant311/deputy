@@ -14,7 +14,7 @@ function App() {
           <Route path="/login" element={<div>Login Page</div>} />
           <Route path="/demo" element={<div>Book a Demo Page</div>} />
         </Routes>
-        <Chatbot />
+        {/* <Chatbot /> */}
         <Footer/>
       </div>
     </>

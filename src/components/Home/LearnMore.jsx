@@ -10,7 +10,6 @@ export default function LearnMoreSection() {
         Want to learn more?
       </h2>
 
-      {/* Toggle Tabs */}
       <div className="flex items-center justify-center gap-4 bg-white shadow-md rounded-2xl py-4 px-6 mb-10 max-w-5xl mx-auto">
         <button
           onClick={() => setSelectedTab('small')}

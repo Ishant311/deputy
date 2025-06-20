@@ -15,7 +15,6 @@ const Chatbot = () => {
     const userMsg = { sender: 'user', text: input };
     setMessages(prev => [...prev, userMsg]);
 
-    // Simulated response (replace with real API logic)
     const botMsg = {
       sender: 'bot',
       text: `You said: "${input}". I'm a demo bot 😄`
